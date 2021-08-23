@@ -1,24 +1,4 @@
-# conversor
+# Conversor de Moedas feito com VueJS
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Nesse simples conversor de moedas feito com VueJS e o consumo de um endpoint de uma API é possível perceber o quanto o VueJS é uma ferramenta poderosa 
+## na construção de aplicações.
