@@ -1,6 +1,6 @@
 # VueJS_ConversorMoedas
 
-![GitHub](https://github.com/LombaAnderson/VueJS_ConversorMoedas/blob/main/LICENSE
+(https://github.com/LombaAnderson/VueJS_ConversorMoedas/blob/main/LICENSE
 ![GitHub repo size](https://img.shields.io/github/repo-size/LombaAnderson/VueJS_ConversorMoedas)
 
 # Sobre o projeto
