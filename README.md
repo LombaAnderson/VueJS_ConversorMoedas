@@ -6,60 +6,44 @@
 
 # Sobre o projeto
 
-https://www.youtube.com/watch?v=kmsM_hHrDHE
+https://www.youtube.com/watch?v=tIEa3MRBpI0
 
-Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pronta de um colega programador William Costa onde ele cria um projeto VueJS juntamente com Axios.
+
+
+VueJS_ConversorMoedas é um projeto VueJS que fiz para realização de conversão de Dollar para Real e vice-versa assim como conversão de Euro para Real e Real para Euro.
 
 # Tecnologias utilizadas
 ## Back end
 - NodeJS/Npm
 
-
 ## Front end 
-- HTML / CSS/ Vuejs/Axios
-- Axios: Hábil na interceptar requisições(requests) HTTP.
+- HTML / CSS/ Vuejs
 
 Pré-requisitos: npm 
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Site_VueJS.git
+git clone https://github.com/LombaAnderson/VueJS_ConversorMoedas.git
 
 # instalar dependências
 npm install
 
-## Como executar o projeto
+## Executando projeto
 
 ## Back end
-Pré-requisitos: NodeJS/Npm/Axios
+Pré-requisitos: NodeJS/Npm
 
 # criar a pasta do projeto no VS Code
-dev-site
+conversor
 
 # Criar projeto VueJs
-vue create dev-site
+vue create conversor
 
 # Tipo de projeto Vuejs criado
 Default ([Vue 2] babel, eslint)
 
 # executar o projeto no terminal dentro da pasta dev-site
 npm run serve
-
-
-## Recursos para construção do projeto
-
-Mocks de APIs
-
-Esse repositório será o endpoint das APIs do front, então é necessário configurar a seguinte URL como base:
-
-https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api
-
-A partir dessa URL teremos os seguintes recursos em Json:
-
-    Redes sociais GET /social-links.json
-    Vídeos GET /videos.json
-    Sobre GET /about.json
-    Contatos GET /contacts.json
 
 ______
 
