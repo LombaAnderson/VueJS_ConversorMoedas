@@ -1,6 +1,7 @@
 # VueJS_ConversorMoedas
 
-[![NPM](https://github.com/LombaAnderson/VueJS_ConversorMoedas/blob/main/LICENSE)
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/VueJS_ConversorMoedas/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LombaAnderson/VueJS_ConversorMoedas)
 
 # Sobre o projeto
