@@ -47,6 +47,9 @@ npm run serve
 
 ______
 
+# Retirado do Canal Programador BR
+-Criando um conversor de moedas com VUE JS - S02E10
+
 # Autor
 
 Anderson Lomba de Oliveira
